@@ -21,7 +21,7 @@
 Модификация находится в активной разработке. В дальнейшем планируется улучшение снежного покрытия ландшафта, добавление снегопадов, метелей и других атмосферных зимних эффектов.
 
 **Автор:** KCD2RP | БОГЕМИЯ
-**Версия:** 0.2.0 Beta
+**Версия:** 0.4.3
 **Совместимость:** Kingdom Come: Deliverance II / KCD:MP 0.51.1
 **Сайт проекта:** https://kcd2rp.ru/
 
@@ -48,7 +48,7 @@ The modification transforms the environment of medieval Bohemia into a cold wint
 The modification is currently under active development. Future updates are planned to improve terrain snow coverage and introduce snowfall, blizzards, and additional atmospheric winter effects.
 
 **Author:** KCD2RP | BOHEMIA
-**Version:** 0.2.0 Beta
+**Version:** 0.4.3
 **Compatibility:** Kingdom Come: Deliverance II / KCD:MP 0.51.1
 **Project website:** https://kcd2rp.ru/
 
